@@ -1,0 +1,12 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(˜˜Ü»
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+M
+java:S1128"7Remove this unused import 'javax.imageio.IIOException'.(´ÂÏ’
+d
+java:S2259"IA "NullPointerException" could be thrown; "inputStream" is nullable here.(¶ò†Áşÿÿÿÿ
+`
+java:S2259"JA "NullPointerException" could be thrown; "outputStream" is nullable here.(¢ÔïÌ
+h
+java:S2095"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(«Í²‚

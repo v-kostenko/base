@@ -1,0 +1,12 @@
+
+X
+java:S1854#"=Remove this useless assignment to local variable "secondMax".(‘«¬£ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢°‘ñ
+I
+java:S1481#".Remove this unused "secondMax" local variable.(‘«¬£ùÿÿÿÿ
+>	java:S108%")Either remove or fill this block of code.(Î¯Â‡
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(É»ËÇùÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ûà†Ïúÿÿÿÿ
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(——¹ðþÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(žç†Þüÿÿÿÿ

@@ -1,0 +1,24 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ö…«È
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÙÆëøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(õå™ëÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿ðß
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(Å­¦
+7	java:S131#""Add a default case to this switch.(™Ïêƒ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(«âé
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(”ß‡¶
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(©„ÞÅ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(‹êÖ¥
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(‡ÿö¡
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(£ÎÊî
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(ìçœú
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(¼¯ùØùÿÿÿÿ
+=
+java:S1125i"'Remove the unnecessary boolean literal.(¨ñô’
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(êÖú¾
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¥‹Šøÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Black" 3 times.(ºÆî«
+]
+java:S3973i"GUse indentation to denote the code conditionally executed by this "if".(¨ñô’

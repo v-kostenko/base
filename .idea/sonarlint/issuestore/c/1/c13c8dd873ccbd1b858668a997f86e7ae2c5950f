@@ -1,0 +1,35 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘
+V
+java:S1854¯":Remove this useless assignment to local variable "array2".(ŞØä„üÿÿÿÿ
+V
+java:S1854®":Remove this useless assignment to local variable "array1".(Ğîúşıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Øø¯üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©›ıøÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ã…Ó«
+V	java:S125%"<This block of commented-out lines of code should be removed.(ëè¸äıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÿáº‡ûÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ØÚÖ°
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ƒìîüıÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ØÚÖ°
+Q	java:S125N"<This block of commented-out lines of code should be removed.(æ‚‹
+N	java:S106b"9Replace this use of System.out or System.err by a logger.(±ş”©
+N	java:S106i"9Replace this use of System.out or System.err by a logger.(šŸî
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(Êñÿ÷ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(À½·æøÿÿÿÿ
+O	java:S106«"9Replace this use of System.out or System.err by a logger.(Û²÷’
+R	java:S125£"<This block of commented-out lines of code should be removed.(¦îÅ
+G
+java:S1481®"+Remove this unused "array1" local variable.(Ğîúşıÿÿÿÿ
+m	java:S127^"XRefactor the code in order to not assign to this loop counter from within the loop body.(Š¶üë
+r	java:S127t"XRefactor the code in order to not assign to this loop counter from within the loop body.(§šÿÿÿÿÿ
+r	java:S127w"XRefactor the code in order to not assign to this loop counter from within the loop body.(§šÿÿÿÿÿ
+s	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ä¤»½ıÿÿÿÿ
+n	java:S127Š"XRefactor the code in order to not assign to this loop counter from within the loop body.(‚«Á¡
+m	java:S127Œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ¿8
+s	java:S127œ"XRefactor the code in order to not assign to this loop counter from within the loop body.(ı¬°ùÿÿÿÿ
+\
+java:S3973v"GUse indentation to denote the code conditionally executed by this "if".(–¶Ï@

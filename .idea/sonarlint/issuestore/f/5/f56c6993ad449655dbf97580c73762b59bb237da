@@ -1,0 +1,48 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‘ŞÁùÿÿÿÿ
+E
+java:S1611"/Remove the parentheses around the "e" parameter(×„Æ´
+\
+java:S6201"FReplace this instanceof check and cast with 'instanceof Worker worker'(×„Æ´
+V	java:S125"<This block of commented-out lines of code should be removed.(æ€áşûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‚¤óŠüÿÿÿÿ
+\
+java:S6201"FReplace this instanceof check and cast with 'instanceof Worker worker'(ÙúíÀ
+Z
+java:S1612#"EReplace this lambda with method reference 'Worker.class::isInstance'.(úª‰
+P	java:S1253"<This block of commented-out lines of code should be removed.(º’ï'
+@
+java:S2201O"*The return value of "toList" must be used.(ùøïù
+7
+java:S3864I"!Remove this use of "Stream.peek".(¿‘‹
+a
+java:S1612l"FReplace this lambda with method reference 'PayrollEntry::getEmployee'.(—ÚÆ¬øÿÿÿÿ
+c
+java:S1612w"MReplace this lambda with method reference 'PayrollEntry::getSalaryPlusBonus'.(ôø¹¿
+]	java:S125|"<This block of commented-out lines of code should be removed.(À©ºÈùÿÿÿÿ8´‚“¨0
+R
+java:S1128"<Remove this unused import 'jdk.nio.mapmode.ExtendedMapMode'.(ÛËö÷
+F
+java:S1128"0Remove this unused import 'oop.library.Library'.(†àÍ¸
+Y
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ
+S
+java:S1128	"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ
+N
+java:S1128
+"8Remove this unused import 'java.util.function.Function'.(»³Í
+O
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶
+k
+java:S3655)"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(µÏıùøÿÿÿÿ
+f
+java:S3655f"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(À—Æ„
+k
+java:S3655."PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‚¹ñóüÿÿÿÿ
+e
+java:S3655#"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(úª‰
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÙúíÀ
+f
+java:S3655v"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÿ–Ê“

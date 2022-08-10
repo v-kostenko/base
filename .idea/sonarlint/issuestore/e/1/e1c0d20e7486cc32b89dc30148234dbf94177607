@@ -1,0 +1,22 @@
+
+W
+java:S1854*"ARemove this useless assignment to local variable "macroCommands".(›˜ãã
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€ëè·
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûåèˆýÿÿÿÿ
+H
+java:S1481*"2Remove this unused "macroCommands" local variable.(›˜ãã
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(§É¡„ùÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(»«¼ýÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(’©£
+C
+java:S1604
+"(Make this anonymous inner class a lambda(›ì‘´ûÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(†ÂæÓûÿÿÿÿ
+C
+java:S1604-"(Make this anonymous inner class a lambda(Žÿ‰—úÿÿÿÿ
+C
+java:S16044"(Make this anonymous inner class a lambda(¤ãøÃüÿÿÿÿ
+>
+java:S1604;"(Make this anonymous inner class a lambda(²Žõ…
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þœ™¤øÿÿÿÿ

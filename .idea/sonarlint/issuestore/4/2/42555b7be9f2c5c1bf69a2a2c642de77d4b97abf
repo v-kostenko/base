@@ -1,0 +1,26 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÖÑÉ
+7	java:S131""Add a default case to this switch.(™Ïêƒ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ŸôÅğ
+s	java:S131)"YComplete cases by adding the missing enum constants or add a default case to this switch.(¿ÂĞ¥üÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(†È÷×ûÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(¶ô¨Àıÿÿÿÿ
+W
+java:S11268"AReplace this if-then-else statement by a single return statement.(õ‚ƒ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(İïĞ†ûÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(İïĞ†ûÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(Š„ï¤
+N	java:S106t"9Replace this use of System.out or System.err by a logger.(ÁøÁŸ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(„À©·ûÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(™÷ƒñûÿÿÿÿ
+K
+java:S2864…"4Iterate over the "entrySet" instead of the "keySet".(¬›âÊ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(æ«ÏŸ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(¸³±•şÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÉîÄ‰ÿÿÿÿÿ
+8	java:S131""Add a default case to this switch.(ŞÊé°
+f
+java:S1301)"KReplace this "switch" statement by "if" statements to increase readability.(¿ÂĞ¥üÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¨äy
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

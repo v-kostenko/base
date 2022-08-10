@@ -1,0 +1,29 @@
+
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(èÊÖ©şÿÿÿÿ
+U	java:S899";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+C	java:S108N")Either remove or fill this block of code.(øë“çùÿÿÿÿ
+E
+java:S2093<"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+=
+java:S1125e"'Remove the unnecessary boolean literal.(ğ¤œÖ
+D	java:S108")Either remove or fill this block of code.(øë“çùÿÿÿÿ
+B
+java:S1168Š"+Return an empty collection instead of null.(¥¹ï
+>
+java:S1125¤"'Remove the unnecessary boolean literal.(õÄœÀ
+D
+java:S1128"'Remove this unused import 'arrays.Arr'.(¥éĞ8ş´ø©’0
+e
+java:S1192"JDefine a constant instead of duplicating this literal "clock.dat" 5 times.(ĞÓ©ªøÿÿÿÿ
+P
+java:S1141p"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+c
+java:S2259T"MA "NullPointerException" could be thrown; "dataInputStream" is nullable here.(ó¾¶ú
+d
+java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(úÙÖß
+=
+java:S2189q""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

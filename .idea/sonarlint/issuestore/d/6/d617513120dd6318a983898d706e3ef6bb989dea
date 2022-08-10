@@ -1,0 +1,58 @@
+
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(ÁÁ¹üùÿÿÿÿ
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(½Œ¶¬ûÿÿÿÿ
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(Á²î
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(àŸø¦ùÿÿÿÿ
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(¼ıà¤ıÿÿÿÿ
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(÷àÕ¹úÿÿÿÿ
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(ª­¶‡
+G
+java:S1874!",Remove this use of "Date"; it is deprecated.(ûéˆÙşÿÿÿÿ
+B
+java:S1874&",Remove this use of "Date"; it is deprecated.(ì‹ç™
+G
+java:S1874(",Remove this use of "Date"; it is deprecated.(ø‡“¤ùÿÿÿÿ
+G
+java:S1874-",Remove this use of "Date"; it is deprecated.(œ‹„Ùøÿÿÿÿ
+G
+java:S1874/",Remove this use of "Date"; it is deprecated.(ûä³üÿÿÿÿ
+G
+java:S1874;",Remove this use of "Date"; it is deprecated.(íÖøÿÿÿÿ
+G
+java:S1874=",Remove this use of "Date"; it is deprecated.(§¤˜şÿÿÿÿ
+G
+java:S1874B",Remove this use of "Date"; it is deprecated.(†íÕ“üÿÿÿÿ
+G
+java:S1874D",Remove this use of "Date"; it is deprecated.(¾ùËüÿÿÿÿ
+G
+java:S1874H",Remove this use of "Date"; it is deprecated.(™¦Õ¨ıÿÿÿÿ
+B
+java:S1874J",Remove this use of "Date"; it is deprecated.(İ‹–Ç
+B
+java:S1874O",Remove this use of "Date"; it is deprecated.(¼èì³
+G
+java:S1874Q",Remove this use of "Date"; it is deprecated.(„×ÉÊıÿÿÿÿ
+V	java:S125Z"<This block of commented-out lines of code should be removed.(ï²‚«øÿÿÿÿ
+V	java:S125\"<This block of commented-out lines of code should be removed.(ÓÅ€Èıÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(¿÷Çÿşÿÿÿÿ
+Q	java:S125a"<This block of commented-out lines of code should be removed.(¦†‹¡
+Q	java:S125g"<This block of commented-out lines of code should be removed.(Î„ğ
+V	java:S125j"<This block of commented-out lines of code should be removed.(øø”ïûÿÿÿÿ
+V	java:S125m"<This block of commented-out lines of code should be removed.(ùªøüÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(‚á¾…ùÿÿÿÿ
+V	java:S125v"<This block of commented-out lines of code should be removed.(×ı­¼ıÿÿÿÿ
+P	java:S125|"<This block of commented-out lines of code should be removed.(€Û¡ 
+V	java:S125~"<This block of commented-out lines of code should be removed.(ôìƒàşÿÿÿÿ
+W	java:S125ƒ"<This block of commented-out lines of code should be removed.(âÙ¥Áıÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(©ş­Ó
+M
+java:S1128"0Remove this unused import 'oop.library.Library'.(†àÍ¸8ÔÂ¥æ¦0
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8ÔÂ¥æ¦0

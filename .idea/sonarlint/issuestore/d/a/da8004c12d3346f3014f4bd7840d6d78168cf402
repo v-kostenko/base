@@ -1,0 +1,11 @@
+
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Øó´Ÿ
+C	java:S108")Either remove or fill this block of code.(øë“çùÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "boxes.obj" 3 times.(åŒñÜ
+P
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ŠíË
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

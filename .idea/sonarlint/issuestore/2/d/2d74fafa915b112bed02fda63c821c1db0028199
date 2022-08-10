@@ -1,0 +1,6 @@
+
+R
+java:S1854/"<Remove this useless assignment to local variable "hashCode".(ò–ôÜ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ŠíË

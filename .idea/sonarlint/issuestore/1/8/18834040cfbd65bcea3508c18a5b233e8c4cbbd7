@@ -1,0 +1,12 @@
+
+P
+java:S1172".Remove this unused method parameter "address".(³ùŸÕüÿÿÿÿ8ğı·Í†0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëıÿúÿÿÿÿ
+Q
+java:S1656
+"/Remove or correct this useless self-assignment.(³ì‘Ïıÿÿÿÿ8–ğĞŒ†0
+I
+java:S1068",Remove this unused "personId" private field.(€›™¦8ÊÚÌŒ†0
+
+java:S4165
+"kRemove this useless assignment; "personAddress" already holds the assigned value along all execution paths.(³ì‘Ïıÿÿÿÿ8ğĞŒ†0

@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ë¿€ë
+V	java:S125"<This block of commented-out lines of code should be removed.(¿˚∂Ò˚ˇˇˇˇ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¿¶ÇÑˇˇˇˇˇ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(™”º·˛ˇˇˇˇ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(´ãŒı
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ì˛®˜
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(ÚËóÄ˛ˇˇˇˇ
+=
+java:S1128"'Remove this unused import 'arrays.Arr'.(•èÈ–
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÅëö

@@ -1,0 +1,6 @@
+
+[
+java:S1854"?Remove this useless assignment to local variable "coffeeMaker".(ŸÍûJ8±²ù 0
+L
+java:S1481"0Remove this unused "coffeeMaker" local variable.(ŸÍûJ8²²ù 0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î¨äy

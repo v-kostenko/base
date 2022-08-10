@@ -1,0 +1,7 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Çé‡Í
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ®Ái
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼äàŠÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹°¶Ìûÿÿÿÿ
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8‡äƒìø/

@@ -1,0 +1,7 @@
+
+E
+java:S1656"/Remove or correct this useless self-assignment.(¹úïû
+@
+java:S1068"*Remove this unused "fieldC" private field.(è•ƒ±
+z
+java:S4165"dRemove this useless assignment; "fieldU" already holds the assigned value along all execution paths.(¹úïû

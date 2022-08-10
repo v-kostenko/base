@@ -1,0 +1,6 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ªÑÞÛþÿÿÿÿ
+–
+java:S1130"yRemove the declaration of thrown exception 'oop.exceptions.basic.AgroColobok', as it cannot be thrown from method's body.(£îöé8žÆØ»‚0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ‘ùØÿÿÿÿÿ

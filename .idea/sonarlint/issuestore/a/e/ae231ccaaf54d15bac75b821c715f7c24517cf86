@@ -1,0 +1,60 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Çµí‘
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à««Ë
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã‰Ï¡
+U
+java:S6213":Rename this variable to not match a restricted identifier.(¶é÷ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§èº¥ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ªŸåŞşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ú‹ş³úÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(´‘—Ìşÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(œ¸·B
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ñ¶Ù
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+=
+java:S11259"'Remove the unnecessary boolean literal.(ü±Áê
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ë”Ø‰üÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¼¦°¸ûÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(›âÈ¸
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ğ•ĞĞûÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(‚ÿ¨¹
+=
+java:S1125O"'Remove the unnecessary boolean literal.(“š¿Õ
+M	java:S106V"9Replace this use of System.out or System.err by a logger.(‰Ö¹#
+D
+java:S1481W")Remove this unused "test" local variable.(Ë÷³Ğøÿÿÿÿ
+A
+java:S1481X"+Remove this unused "letter" local variable.(×æø
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(ùÕñï
+V	java:S125Z"<This block of commented-out lines of code should be removed.(Ä‹İıÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(Ø¥‰ûÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(…§Í
+V	java:S125o"<This block of commented-out lines of code should be removed.(ĞŒ†¯ÿÿÿÿÿ
+V	java:S125}"<This block of commented-out lines of code should be removed.(èâÔøÿÿÿÿ
+W	java:S125€"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(’ş‚ûÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(©‚œË
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(÷ş åşÿÿÿÿ
+T	java:S106—"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(øæö
+=
+java:S2185˜"&Remove this silly call to "Math.round"(øæö
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÈØÿ¨úÿÿÿÿ
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(æ÷›ìüÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(å¯¿íúÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(ßœî‘úÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.security.spec.RSAOtherPrimeInfo'.(“¹ÌÉ
+r	java:S127P"XRefactor the code in order to not assign to this loop counter from within the loop body.(âîˆ²ıÿÿÿÿ
+X
+java:S2184˜"ACast one of the operands of this division operation to a "float".(øæö
+`
+java:S3518˜"IMake sure "oddNegativeQuantity" can't be zero before doing this division.(øæö

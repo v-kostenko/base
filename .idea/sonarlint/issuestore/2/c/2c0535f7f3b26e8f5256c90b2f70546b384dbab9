@@ -1,0 +1,9 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ú´Î¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÐ’ªùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+G
+java:S1068",Remove this unused "isTurnOn" private field.(ÊåÕ¨ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éµ¼êùÿÿÿÿ

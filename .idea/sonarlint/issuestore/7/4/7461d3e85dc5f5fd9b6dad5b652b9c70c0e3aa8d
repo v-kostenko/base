@@ -1,0 +1,8 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+3
+java:S2119	"Save and re-use this "Random".(¼İÅf
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÕ¥Åşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Äöƒ®şÿÿÿÿ
+
+java:S1488"kImmediately throw this expression instead of assigning it to the temporary variable "agroColobokException".(ÛİŞ

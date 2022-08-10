@@ -1,0 +1,33 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "clock5".(Ó¦²ñúÿÿÿÿ
+\
+java:S1854":Remove this useless assignment to local variable "clock4".(ÓàÙÅøÿÿÿÿ8Ìä©’0
+\
+java:S1854":Remove this useless assignment to local variable "clock3".(²ù¢ıùÿÿÿÿ8Ìä©’0
+\
+java:S1854":Remove this useless assignment to local variable "clock2".(ì“íƒÿÿÿÿÿ8Ìä©’0
+W
+java:S1854":Remove this useless assignment to local variable "clock1".(ØîšÄ8Ìä©’0
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(Ç–ªÓ
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(¡³âú
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(Èïàûşÿÿÿÿ
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(Ô …Œ
+H
+java:S1481"+Remove this unused "clock1" local variable.(ØîšÄ8“Ìä©’0
+M
+java:S1481"+Remove this unused "clock2" local variable.(ì“íƒÿÿÿÿÿ8”Ìä©’0
+M
+java:S1481"+Remove this unused "clock3" local variable.(²ù¢ıùÿÿÿÿ8•Ìä©’0
+M
+java:S1481"+Remove this unused "clock4" local variable.(ÓàÙÅøÿÿÿÿ8–Ìä©’0
+F
+java:S1481"+Remove this unused "clock5" local variable.(Ó¦²ñúÿÿÿÿ
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(íÊÿ8¦Èô©’0
+X	java:S125"<This block of commented-out lines of code should be removed.(œÑë8ÿ˜å©’0
+Q	java:S125"<This block of commented-out lines of code should be removed.(…†”Á
+]	java:S125("<This block of commented-out lines of code should be removed.(°Ë’ÿÿÿÿÿ8ÊÎó©’0

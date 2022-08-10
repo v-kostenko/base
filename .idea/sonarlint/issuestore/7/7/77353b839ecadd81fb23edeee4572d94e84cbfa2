@@ -1,0 +1,17 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(ß­ÇÎ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ñæï­
+V
+java:S1117)";Rename "password" which hides the field declared at line 7.(‹Ì¿úÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¸¥ßÃûÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÆäÓË
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(•ôùÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(¢àÖ(
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(Çˆˆ¨şÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(Ñæï­
+M	java:S106E"9Replace this use of System.out or System.err by a logger.(¢àÖ(
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(¾ÁŒ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(É±…
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ş¶ˆúÿÿÿÿ
+8
+java:S2189""Add an end condition to this loop.(´ÿÕ™

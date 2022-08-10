@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«íÕˆùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÂƒ¦ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·ı•÷ÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ÅÃ£øùÿÿÿÿ
+D
+java:S1068".Remove this unused "university" private field.(ŒúåÎ
+E
+java:S1068"*Remove this unused "studId" private field.(Ôø„·ùÿÿÿÿ

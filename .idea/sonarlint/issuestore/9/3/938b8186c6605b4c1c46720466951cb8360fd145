@@ -1,0 +1,11 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "person".(’ØÆ›
+[
+java:S1854"9Remove this useless assignment to local variable "human".(©íàøÿÿÿÿ8÷üúÍ†0
+L
+java:S1481"*Remove this unused "human" local variable.(©íàøÿÿÿÿ8ùüúÍ†0
+A
+java:S1481"+Remove this unused "person" local variable.(’ØÆ›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

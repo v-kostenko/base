@@ -1,0 +1,23 @@
+
+B
+java:S1481"'Remove this unused "p1" local variable.(±»ÜŒÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê·ú£üÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ê™¬Ã
+M	java:S106"9Replace this use of System.out or System.err by a logger.(îØ“U
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(œÚÄÏþÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(×üºó
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(º°§ñ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(˜«¬ý
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(ÜÏ‘
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¤ž—óúÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(³Ç¢‡
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(áú•ü
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(æÜ’„þÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(¤ž—óúÿÿÿÿ
+l
+java:S1192:"VDefine a constant instead of duplicating this literal " Ð½Ð° Ð¿Ð¾Ð·Ð¸Ñ†Ð¸Ð¸ " 4 times.(˜«¬ý
+r	java:S127V"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ü‚Êüýÿÿÿÿ
+m	java:S127W"XRefactor the code in order to not assign to this loop counter from within the loop body.( §å¥
+,
+java:S1700"Rename field "storage"(§ðç²

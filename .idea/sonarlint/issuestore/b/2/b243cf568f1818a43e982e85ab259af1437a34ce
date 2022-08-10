@@ -1,0 +1,17 @@
+
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ê±Š÷
+c
+java:S1128"ARemove this unused import 'oop.io.systemBox.ObjectInputStreamMy'.(¨¾‰ëøÿÿÿÿ8…øê–0
+d
+java:S1128"BRemove this unused import 'oop.io.systemBox.ObjectOutputStreamMy'.(€ßÒêúÿÿÿÿ8…øê–0
+Z
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8…øê–0
+S
+java:S1128
+"6Remove this unused import 'java.io.ObjectInputStream'.(Éæéœ8†øê–0
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8†øê–0
+P
+java:S1141("5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=
+java:S2189)""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

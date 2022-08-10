@@ -1,0 +1,17 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(í„ùï
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÓÇ¥şÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÑÔó—şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Äø©
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(äÀ ’üÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106-"9Replace this use of System.out or System.err by a logger.(æë
+<	java:S1311""Add a default case to this switch.(¿ÂĞ¥üÿÿÿÿ
+O
+java:S2864:"4Iterate over the "entrySet" instead of the "keySet".(±óúÿÿÿÿ
+f
+java:S13011"KReplace this "switch" statement by "if" statements to increase readability.(¿ÂĞ¥üÿÿÿÿ
+1
+java:S1700
+"Rename field "library"(Ô¬ÿ¯ûÿÿÿÿ

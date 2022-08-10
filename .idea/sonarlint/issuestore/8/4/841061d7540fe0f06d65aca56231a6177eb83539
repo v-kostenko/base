@@ -1,0 +1,20 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "text".(½ï™™
+H
+java:S6126"2Replace this String concatenation with Text block.(½ï™™
+?
+java:S1481")Remove this unused "text" local variable.(½ï™™
+V	java:S125"<This block of commented-out lines of code should be removed.(÷’î¬ýÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÌŽ‡
+V	java:S125"<This block of commented-out lines of code should be removed.(£ÿŽÿÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÉÿÓÈ
+F
+java:S1128"0Remove this unused import 'oop.library.Library'.(†àÍ¸
+T
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ÞÛ
+K
+java:S1128"5Remove this unused import 'java.nio.file.OpenOption'.(ï»ÁÆ
+S
+java:S1128
+"=Remove this unused import 'java.nio.file.StandardOpenOption'.(¸ ÅÎ

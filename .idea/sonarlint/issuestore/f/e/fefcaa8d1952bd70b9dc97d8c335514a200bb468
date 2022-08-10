@@ -1,0 +1,11 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´²´Úùÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Êð³±þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹¶¥ø
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¾Ä›E
+–
+java:S1130"yRemove the declaration of thrown exception 'oop.exceptions.basic.AgroColobok', as it cannot be thrown from method's body.(±ÿ€Þ8›‚Ú»‚0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”ÑßÑ
+L
+java:S3518"7Make sure "x" can't be zero before doing this division.(Öà¹

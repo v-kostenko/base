@@ -1,0 +1,22 @@
+
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(äÕï
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(äÕï
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(äÕï
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(äÕï
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(äÕï
+Q
+java:S1119:";Refactor the code to remove this label and the need for it.(Ğ„¯
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(®Öê‘üÿÿÿÿ
+<	java:S131>""Add a default case to this switch.(¿ÂĞ¥üÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ØÇÛ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(üá‰€
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Å‹ˆ‰
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ùˆî¬øÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(äÕï
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(€ÎŸˆ
+<	java:S131^""Add a default case to this switch.(¿ÂĞ¥üÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'javax.security.sasl.SaslClient'.(¹Òó
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ûŸ˜

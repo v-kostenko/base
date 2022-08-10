@@ -1,0 +1,17 @@
+
+Y
+java:S1854&">Remove this useless assignment to local variable "systemBox1".(ÜËŞ„şÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "ssdUpdated".(©«¨ıÿÿÿÿ
+J
+java:S1481"/Remove this unused "ssdUpdated" local variable.(©«¨ıÿÿÿÿ
+J
+java:S1481&"/Remove this unused "systemBox1" local variable.(ÜËŞ„şÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(¤‹¿¥
+Q	java:S125,"<This block of commented-out lines of code should be removed.(·”å
+V	java:S1253"<This block of commented-out lines of code should be removed.(ì¸Öûùÿÿÿÿ
+Q	java:S1256"<This block of commented-out lines of code should be removed.(ÑÍ©æ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(³İŠŒÿÿÿÿÿ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ŠíË

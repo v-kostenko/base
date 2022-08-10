@@ -1,0 +1,82 @@
+
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(Øó´Ÿ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(±ÈĞÉ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ÈĞÉ
+V	java:S1250"<This block of commented-out lines of code should be removed.(¾‘â“üÿÿÿÿ
+P	java:S1255"<This block of commented-out lines of code should be removed.(¬€é7
+5
+java:S2676K"Use the original value instead.(·‡ˆŒ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(×ÛÍöıÿÿÿÿ
+A
+java:S1481a"&Remove this unused "x" local variable.(Ï‘–èıÿÿÿÿ
+<
+java:S3864d"!Remove this use of "Stream.peek".(ğ»“üÿÿÿÿ
+S
+java:S1612{"=Replace this lambda with method reference 'Order::getClient'.(³„Øó
+U
+java:S1612€">Replace this lambda with method reference 'Order::getManager'.(ú”ô©
+Z
+java:S1612‡">Replace this lambda with method reference 'Order::getManager'.(©Ô±†øÿÿÿÿ
+Y
+java:S1612"BReplace this lambda with method reference 'OrderItem::getProduct'.(–ÆÖî
+Y
+java:S1612©"=Replace this lambda with method reference 'OrderItem::total'.(°‡šöüÿÿÿÿ
+Y
+java:S1612´"=Replace this lambda with method reference 'Order::getClient'.(„ì±Áüÿÿÿÿ
+Y
+java:S1612º"=Replace this lambda with method reference 'Order::getClient'.(„ì±Áüÿÿÿÿ
+8
+java:S3864Ä"!Remove this use of "Stream.peek".(¥‘Ãí
+Y
+java:S1612Ã"BReplace this lambda with method reference 'OrderItem::getProduct'.(ì½ÓØ
+Y
+java:S1612Í"BReplace this lambda with method reference 'OrderItem::getProduct'.(–ÆÖî
+<
+java:S1481Õ"&Remove this unused "x" local variable.(ó¬™p
+\
+java:S1612‡"@Replace this lambda with method reference 'System.out::println'.(¥å¼…üÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(¥å¼…üÿÿÿÿ
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T
+java:S1612"=Replace this lambda with method reference 'Order::getClient'.(µ·¬•
+Z
+java:S1612¤">Replace this lambda with method reference 'Order::getManager'.(¶’ê¶úÿÿÿÿ
+Y
+java:S1612¤"=Replace this lambda with method reference 'Order::totalBill'.(¶’ê¶úÿÿÿÿ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(§´±á
+T
+java:S1612ª"=Replace this lambda with method reference 'Order::getClient'.(ŸÃİÙ
+W	java:S125¬"<This block of commented-out lines of code should be removed.(›ÿƒÜÿÿÿÿÿ
+Z
+java:S1612º">Replace this lambda with method reference 'Order::getManager'.(¶’ê¶úÿÿÿÿ
+Y
+java:S1612º"=Replace this lambda with method reference 'Order::totalBill'.(¶’ê¶úÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(òÌïæùÿÿÿÿ
+R	java:S125Â"<This block of commented-out lines of code should be removed.(Áş·ö
+^
+java:S1612Í"BReplace this lambda with method reference 'OrderItem::getProduct'.(àò£¹øÿÿÿÿ
+Y
+java:S1612Í"=Replace this lambda with method reference 'OrderItem::total'.(àò£¹øÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'com.sun.source.tree.UsesTree'.(äöñıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(äöñıÿÿÿÿ
+l
+java:S3655Š"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(â“†ùÿÿÿÿ
+k
+java:S3655A"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(êÑĞÂşÿÿÿÿ
+g
+java:S3655’"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(²¸ú
+g
+java:S3655—"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(“šŠÂ
+k
+java:S3655i"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(·ïõİùÿÿÿÿ
+k
+java:S3655X"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ú¤şüÿÿÿÿ
+g
+java:S3655¨"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(“šŠÂ

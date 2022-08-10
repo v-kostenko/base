@@ -1,0 +1,38 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ùø»…üÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(ùø»…üÿÿÿÿ
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ÿš†ßúÿÿÿÿ
+Q	java:S125)"<This block of commented-out lines of code should be removed.(ËÀ«Ñ
+C
+java:S1125."(Remove the unnecessary boolean literals.(¯ÍÅùÿÿÿÿ
+B
+java:S1125."'Remove the unnecessary boolean literal.(¯ÍÅùÿÿÿÿ
+<
+java:S11252"'Remove the unnecessary boolean literal.(Ùó¿W
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(÷±˜Šúÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(¾øØìıÿÿÿÿ
+<
+java:S1125C"'Remove the unnecessary boolean literal.(Ùó¿W
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(œ×›ùÿÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(œ×›ùÿÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ÍÑÕ¯ÿÿÿÿÿ
+<
+java:S1125V"'Remove the unnecessary boolean literal.(Ùó¿W
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Üêàˆùÿÿÿÿ
+S
+java:S1117Z"8Rename "mode" which hides the field declared at line 12.(´•¸ûüÿÿÿÿ
+V	java:S125h"<This block of commented-out lines of code should be removed.(‡ÑÇ×úÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(¸ò¹²üÿÿÿÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(˜­§ûøÿÿÿÿ
+E
+java:S1656="/Remove or correct this useless self-assignment.(”ã’‚
+b
+java:S11925"GDefine a constant instead of duplicating this literal "Manual" 3 times.(ù»³±ÿÿÿÿÿ
+I
+java:S1121*".Extract the assignment out of this expression.(ÿš†ßúÿÿÿÿ
+8
+java:S2189""Add an end condition to this loop.(´ÿÕ™
+€
+java:S4165="jRemove this useless assignment; "currentPower" already holds the assigned value along all execution paths.(”ã’‚

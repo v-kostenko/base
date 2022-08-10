@@ -1,0 +1,32 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+D
+java:S3740"/Provide the parametrized type for this generic.(¨»Èa
+U
+java:S18540":Remove this useless assignment to local variable "child1".(áÉ…üÿÿÿÿ
+V
+java:S1854&"@Remove this useless assignment to local variable "firstGeneric".(É«ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çˆ—òÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤²çÅþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çˆ—òÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤²çÅþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã„Ì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÊÐüÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(µ— öøÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(Çžšˆúÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¢«ªä
+S	java:S106."9Replace this use of System.out or System.err by a logger.(àÜà‘ûÿÿÿÿ
+G
+java:S18740",Remove this use of "Date"; it is deprecated.(áÉ…üÿÿÿÿ
+F
+java:S14810"+Remove this unused "child1" local variable.(áÉ…üÿÿÿÿ
+B
+java:S18742",Remove this use of "Date"; it is deprecated.(ˆêà†
+G
+java:S18744",Remove this use of "Date"; it is deprecated.(ì¢Ò¨þÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ
+B
+java:S1874A",Remove this use of "Date"; it is deprecated.(Á¨†¶
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(ŠöŠ¸

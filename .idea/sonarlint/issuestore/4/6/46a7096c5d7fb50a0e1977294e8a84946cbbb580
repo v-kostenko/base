@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+B
+java:S1068"'Remove this unused "age" private field.(Æ†´¦þÿÿÿÿ
+?
+java:S1068")Remove this unused "color" private field.(È„…¦
+@
+java:S1068"*Remove this unused "weight" private field.(Š”øø

@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•È®À
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(¼¸
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(½—Ğ±ûÿÿÿÿ
+B
+java:S1874",Remove this use of "Date"; it is deprecated.(Óçÿ—
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(£¶ùêÿÿÿÿÿ
+G
+java:S1874",Remove this use of "Date"; it is deprecated.(´ØøÈıÿÿÿÿ
+Q	java:S125!"<This block of commented-out lines of code should be removed.(ºãåÜ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÌŠˆ
