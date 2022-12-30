@@ -1,6 +1,4 @@
-package oop.multyThreading.synchro;
-
-import java.io.BufferedWriter;
+package oop.multyThreading.synchro.block;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,7 +20,6 @@ public class Main {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-
 
         synchro.close();
 

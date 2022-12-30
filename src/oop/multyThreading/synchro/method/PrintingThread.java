@@ -1,4 +1,4 @@
-package oop.multyThreading.synchro;
+package oop.multyThreading.synchro.method;
 
 public class PrintingThread extends Thread{
     private String name;
@@ -11,21 +11,11 @@ public class PrintingThread extends Thread{
         this.synchro = synchro;
     }
 
-    @Override
     public void run(){
         for (int i = 0; i < amount; i++) {
-            synchro.writeInFile(i + "." + name);
-
-            try {
-                Thread.sleep(1000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-
-            synchro.writeInFile(" -> " + i + "." + name);
+            synchro.write(name);
         }
     }
-
 
 
 }

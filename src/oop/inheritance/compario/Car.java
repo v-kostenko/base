@@ -8,6 +8,7 @@ public class Car {
     private Gearbox gearbox;
     private Motor motor;
 
+
     public Car(String brand, String model, double price, double size, Gearbox gearbox, Motor motor) {
         this.brand = brand;
         this.model = model;

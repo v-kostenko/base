@@ -1,4 +1,4 @@
-package oop.multyThreading.synchro;
+package oop.multyThreading.synchro.block;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
@@ -15,7 +15,6 @@ public class Synchro {
             ioException.printStackTrace();
         }
     }
-
 
     public void writeInFile(String info){
         try {

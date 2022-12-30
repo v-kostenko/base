@@ -174,6 +174,24 @@ public class Arr {
         int [] array1 = new int[]{-11, 22, 33, -44, 54, 65, 77, -88};
         array2 = new int[]{-1, 2, 3};
 
+        //перестивить местами (зеркально)
+        int[] testArray = new int[]{3, 2, -6, 1, 4, 8};
+
+        for (int i = 0, j = testArray.length-1; i < testArray.length/2; i++, j--) {
+            int boofTest = testArray[i];
+            testArray[i] = testArray[j];
+            testArray[j]=boofTest;
+        }
+
+        //смешать рандомно
+        Random random5 = new Random();
+
+        for (int i = 0; i < testArray.length; i++) {
+            int indexTest = random5.nextInt(testArray.length);
+            int temp = testArray[i];
+
+            testArray[temp] = testArray[i];
+        }
 
 
 

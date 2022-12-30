@@ -1,1 +1,0 @@
-0.Ivan0.Vasya0.Petr -> 0.Vasya -> 0.Ivan1.Vasya1.Ivan -> 0.Petr1.Petr -> 1.Vasya -> 1.Petr2.Petr2.Vasya -> 1.Ivan2.Ivan -> 2.Ivan -> 2.Vasya -> 2.Petr3.Vasya3.Ivan3.Petr -> 3.Vasya -> 3.Petr -> 3.Ivan4.Vasya4.Ivan4.Petr -> 4.Vasya -> 4.Petr5.Petr -> 4.Ivan5.Ivan -> 5.Petr -> 5.Ivan6.Petr -> 6.Petr

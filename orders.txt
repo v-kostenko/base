@@ -1,0 +1,60 @@
+Product :  Brand - Xiomi Type - phone Ser. numb - 1 was added to the array.
+Product :  Brand - Samsung Type - phone Ser. numb - 1 was added to the array.
+Ivan ask for phone Apple got Nothing
+Product :  Brand - Apple Type - Laptop Ser. numb - 1 was added to the array.
+Vasya ask for phone Apple got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for Headphonse Xiomi got Nothing
+Product :  Brand - Samsung Type - phone Ser. numb - 2 was added to the array.
+Vasya ask for phone Apple got Nothing
+Product :  Brand - Xiomi Type - Laptop Ser. numb - 2 was added to the array.
+Product :  Brand - Samsung Type - phone Ser. numb - 3 was added to the array.
+Ivan ask for phone Apple got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Vasya ask for Headphonse Xiomi got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Vasya ask for Headphonse Xiomi got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for Laptop Samsung got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for Laptop Samsung got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Product :  Brand - Apple Type - Headphonse Ser. numb - 1 was added to the array.
+Ivan ask for Laptop Samsung got Nothing
+Product :  Brand - Xiomi Type - Laptop Ser. numb - 1 was added to the array.
+Product :  Brand - Samsung Type - phone Ser. numb - 1 was added to the array.
+Vasya ask for Laptop Samsung got Nothing
+Product :  Brand - Xiomi Type - phone Ser. numb - 2 was added to the array.
+Ivan ask for Headphonse Xiomi got Nothing
+Product :  Brand - Apple Type - Laptop Ser. numb - 2 was added to the array.
+Product :  Brand - Samsung Type - Laptop Ser. numb - 2 was added to the array.
+Vasya ask for Headphonse Xiomi got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for Laptop Samsung got Product :  Brand - Samsung Type - Laptop Ser. numb - 2Product :  Brand - Samsung Type - Headphonse Ser. numb - 3 was added to the array.
+Ivan ask for Headphonse Xiomi got Nothing
+Vasya ask for Laptop Samsung got Nothing
+Ivan ask for Laptop Samsung got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for phone Apple got Nothing
+Ivan ask for Headphonse Xiomi got Nothing
+Vasya ask for Headphonse Xiomi got Nothing
+Ivan ask for phone Apple got Nothing
+Vasya ask for Headphonse Xiomi got Nothing
+Ivan ask for phone Apple got Nothing

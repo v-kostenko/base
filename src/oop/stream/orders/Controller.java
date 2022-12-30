@@ -21,7 +21,7 @@ public class Controller {
         return Arrays.stream(arrayOrders).distinct().toList();
     }
 
-    //принимаем список заказов, возвращаем массив  заказов без дубликатов
+    //принимаем список заказов, возвращаем массив заказов без дубликатов
     public static Order[] listToArrayRemoveDuplicate(List<Order> orderList) {
         return orderList.stream().distinct().toArray(value -> new Order[value]);
     }
@@ -70,12 +70,12 @@ public class Controller {
         return orderList.stream().distinct().sorted().toList();
     }
 
-    //принимаем заказі, возвращает списрк заказов,  отсортир по датам
+    //принимаем заказы, возвращает список заказов,  отсортир по датам
     public static List<Order> sortByDate(List<Order> orderList) {
         return orderList.stream().distinct().sorted((o1, o2) -> -o1.getDateOfOrder().compareTo(o2.getDateOfOrder())).toList();
     }
 
-    // принимаем заказі, и менеджера и возвращаем все заказы оформленные этим менеджеров
+    // принимаем заказы, и менеджера и возвращаем все заказы оформленные этим менеджеров
     //отсортированные по возрастанию номеров
     public static List<Order> sortByManagerAndNumber(List<Order> orderList, Manager manager) {
         //Comparator<Order> comparator = (o1, o2) -> o1.getId() - o2.getId();
@@ -123,13 +123,13 @@ public class Controller {
         return orderList.stream().distinct().filter(o -> o.totalBill() > sum).map(o -> o.getClient()).distinct().toList();
     }
 
-    //принимаем заказы и возвращаем списрк менеджеров, оформлявших заказы, начиная с такой-то даты, переданной в ф-ю
+    //принимаем заказы и возвращаем список менеджеров, оформлявших заказы, начиная с такой-то даты, переданной в ф-ю
     public static List<Manager> getManagerListFromDate(List<Order> orderList, Date date) {
         return orderList.stream().distinct().filter(o -> o.getDateOfOrder().after(date)).map(o -> o.getManager())
                 .distinct().toList();
     }
 
-    //найти список менеджеров кот оформляли заказы в таком-то периоде
+    //найти список менеджеров кто оформляли заказы в таком-то периоде
     public static List<Manager> getManagerList(List<Order> orderList, Date dateFrom, Date dateTo) {
         return orderList.stream().distinct().filter(o -> o.getDateOfOrder().before(dateTo) &&
                 o.getDateOfOrder().after(dateFrom)).map(o -> o.getManager()).distinct().toList();
@@ -141,7 +141,7 @@ public class Controller {
                 .map(oi -> oi.getProduct()).distinct().toList();
     }
 
-    //найти самій дорогой товар
+    //найти самый дорогой товар
     public static Product getVeryExpensiveProduct1(List<Order> orderList) {
         return orderList.stream().distinct().max((o1, o2) -> o1.compareTo(o2)).get().getVeryExpensiveProduct();
     }
@@ -152,12 +152,12 @@ public class Controller {
                 .min((o1, o2) -> Double.compare(o1.getProductPrice(), o2.getProductPrice())).get().getProduct();
     }
 
-    //принимаеем заказы и список товаров и возвращаем спмсок заказов в которых заказывался любой из этих товаров
+    //принимаеем заказы и список товаров и возвращаем список заказов в которых заказывался любой из этих товаров
     public static List<Order> getBreadAndButter(List<Order> orderList, List<OrderItem> orderItemList) {
         return orderList.stream().distinct().filter(o -> o.containsAnyOrderItem(orderItemList)).toList();
     }
 
-    // возвращаем все завказы, где есть данные продукт
+    // возвращаем все заказы, где есть данные продукты
     public static List<OrderItem> getOrdersWhereIsProduct(List<Order> orderList, Product product) {
         return orderList.stream().distinct().flatMap(o -> o.getOrderItemList().stream())
                 .filter(oi -> oi.getProduct().equals(product)).toList();
@@ -174,7 +174,7 @@ public class Controller {
         return orderList.stream().distinct().filter(o -> o.containsTitle(title)).toList();
     }
 
-    //принимаем заказі и , 2 дабла (сумма от и до) и возвратить клиентов этих заказов в порядке алфавитном его имет
+    //принимаем заказы и , 2 дабла (сумма от и до) и возвратить клиентов этих заказов в порядке алфавитном его имет
     public static List<Client> getClientsListByAlphabet(List<Order> orderList, double sumFrom, double sumTo) {
         return orderList.stream().distinct().filter(o -> o.totalBill() >= sumFrom && o.totalBill() <= sumTo)
                 .map(o -> o.getClient()).distinct()
@@ -216,7 +216,7 @@ public class Controller {
         return map;
     }
 
-    //принимаем заказі, возвращаем заказі каждого клиента
+    //принимаем заказы, возвращаем заказы каждого клиента
     public static Map<Client, List<Order>> getListOrdersClients(List<Order> orderList) {
         Map<Client, List<Order>> map = new HashMap<>();
 
