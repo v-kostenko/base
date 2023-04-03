@@ -1,9 +1,6 @@
 package oop.stream.repeat;
 
-import java.util.Comparator;
-import java.util.Date;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Predicate;
 import java.util.function.ToLongFunction;
@@ -96,8 +93,60 @@ public class EmployeeController {
     }
 
     //просмотреть список телефонов менеджеров
-    public static List<Employee> getPhoneListByPosition(List<Employee>employees, Position position){
-        return employees.stream().distinct().filter(e -> e.getPosition().equals(position)).toList();
+    public static List<String> getPhoneListByPosition(List<Employee> employees, Position position) {
+        return employees.stream().distinct().filter(e -> e.getPosition().equals(position)).flatMap(e -> e.getPhones().stream()).toList();
+    }
+
+    //найти все эмейлы на джимейл и ...
+    public static List<String> getMails(List<Employee> employees, List<String> mails) {
+        return employees.stream().flatMap(e -> e.getEmails().stream()).filter(m -> mails.contains(m.split("@")[1])).toList();
+    }
+
+    //найти количество телефонов водафон у сотрудников
+    public static long countMobileOperators(List<Employee> employees, List<String> code) {
+        return employees.stream().flatMap(e -> e.getPhones().stream()).filter(p -> code.contains(p.substring(0, 6))).count();
+    }
+
+    //сколько сотрудником по каждой должности?
+    public static Map<Position, Integer> getAmountOfEachPosition(List<Employee> employees) {
+        Map<Position, Integer> map = new HashMap<>();
+
+        employees.stream().distinct().forEach(e -> {
+            if (!map.containsKey(e.getPosition())) {
+                map.put(e.getPosition(), 1);
+            } else {
+                map.replace(e.getPosition(), map.get(e.getPosition()) + 1);
+            }
+        });
+        return map;
+    }
+
+    //Фонд ЗП по каждой категории
+    public static Map<Position, Double> getSalaryByEachPosition(List<Employee> employees) {
+        Map<Position, Double> map = new HashMap<>();
+
+        employees.stream().distinct().forEach(e -> {
+            if (!map.containsKey(e.getPosition())) {
+                map.put(e.getPosition(), e.getSalary());
+            } else {
+                map.replace(e.getPosition(), map.get(e.getPosition()) + e.getSalary());
+            }
+        });
+        return map;
+    }
+
+    //Сколько телефонов каждого оператора
+    public static Map<String, Integer> getAmountOfEachCode(List<Employee> employees) {
+        Map<String, Integer> map = new HashMap<>();
+        employees.stream().distinct().flatMap(e -> e.getPhones().stream()).forEach(p -> {
+            String sub = p.substring(0, 6);
+            if (!map.containsKey(sub)) {
+                map.put(sub, 1);
+            } else {
+                map.replace(sub, map.get(sub) + 1);
+            }
+        });
+        return map;
     }
 
 

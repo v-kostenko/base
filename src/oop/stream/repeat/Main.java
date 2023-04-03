@@ -1,11 +1,9 @@
 package oop.stream.repeat;
 
-import java.util.Arrays;
-import java.util.Date;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
+import java.util.function.BiConsumer;
 
-import static oop.stream.repeat.EmployeeController.getEmplOlderThan;
+import static oop.stream.repeat.EmployeeController.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,7 +14,7 @@ public class Main {
                 new Date(2010 - 1900, 2, 4));
 
         List<String> phonesListJack = Arrays.asList("+380661112288", "+380998887556", "+380503105588");
-        List<String> emailsListJack = Arrays.asList("jack@gmail.com", "jack@gmail.com");
+        List<String> emailsListJack = Arrays.asList("jack@gmail.com", "jack@mail.com");
         Employee employeeJack = new Employee("Jack", phonesListJack, emailsListJack, 2, Position.ACCOUNTANT, 2100,
                 new Date(1991 - 1900, 9, 21),
                 new Date(2015 - 1900, 9, 15));
@@ -39,7 +37,7 @@ public class Main {
                 new Date(1999 - 1900, 10, 10),
                 new Date(2010 - 1900, 2, 4));
 
-        List<String> phonesListAngelina2 = Arrays.asList("+380661765233", "+380998123766", "+380503398788");
+        List<String> phonesListAngelina2 = Arrays.asList("+380671765233", "+380988123766", "+380733398788");
         List<String> emailsListAngelina2 = Arrays.asList("angelina@mail.com", "angelina@job.com");
         Employee employeeAngelina2 = new Employee("Angelina", phonesListAngelina2, emailsListAngelina2, 2, Position.ACCOUNTANT, 1500,
                 new Date(1999 - 1900, 10, 10),
@@ -86,7 +84,36 @@ public class Main {
 //        List<Employee> employees = EmployeeController.getEmplThatHaveSeveralPhones(employeeList);
 //        employees.forEach(e -> System.out.println(e.getName() + " " + e.getPhones() + "\n"));
 
-       double averageAge = EmployeeController.getAvarageAge(employeeList);
-        System.out.println(averageAge);
+//       double averageAge = EmployeeController.getAvarageAge(employeeList);
+//        System.out.println(averageAge);
+
+//       List<String > employeesPhones = EmployeeController.getPhoneListByPosition(employeeList, Position.ACCOUNTANT);
+//       employeesPhones.forEach(e -> System.out.println(e));
+
+//        List<String> mails = Arrays.asList("job.com", "gmail.com");
+//        List<String> mailsEm = EmployeeController.getMails(employeeList, mails);
+//        mailsEm.forEach(m -> System.out.println(m));
+
+//        List<String> code = Arrays.asList("+38066", "+38099", "+38050");
+//        long phoneAmount = EmployeeController.countMobileOperators(employeeList, code);
+//        System.out.println(phoneAmount);
+
+//        Map<Position, Integer> amount = EmployeeController.getAmountOfEachPosition(employeeList);
+//        amount.forEach((k, v) -> System.out.println(k + " " + v));
+//        amount.entrySet().forEach(e -> System.out.println( e.getKey() + " " + e.getValue()));
+
+       Map<String, Integer> map = EmployeeController.getAmountOfEachCode(employeeList);
+       map.forEach((k, v) -> System.out.println(k + " " + v));
+       map.entrySet().forEach(e -> System.out.println(e.getKey() + " " + e.getValue()));
+
+       for ( String m: map.keySet()){
+
+       }
+//
+//       Map<Position, Double> salary = EmployeeController.getSalaryByEachPosition(employeeList);
+//       salary.forEach((k, v) -> System.out.println( k + " " + v));
+//       salary.entrySet().forEach(e -> System.out.println(e.getKey() + " " + e.getValue()));
+
+
     }
 }
