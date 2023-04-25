@@ -4,17 +4,17 @@ import patterns.decorator.carLine.autos.Auto;
 import patterns.decorator.carLine.autos.Car;
 import patterns.decorator.carLine.autos.Suv;
 
-public class SuvAssembleLine implements IAssembleLine {
+public class SuvAssembleLine {
 
 
-    @Override
-    public Suv assemble() {
-        Suv suv = new Suv();
-        createBody(suv);
-        addEngine(suv);
-        addWheels(suv);
-        return suv;
-    }
+//    @Override
+//    public Suv assemble() {
+//        Suv suv = new Suv();
+//        createBody(suv);
+//        addEngine(suv);
+//        addWheels(suv);
+//        return suv;
+//    }
 
     private void createBody(Suv suv) {
         // forming body

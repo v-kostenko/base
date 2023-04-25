@@ -3,11 +3,13 @@ package patterns.decorator.carLine;
 import patterns.decorator.carLine.autos.Auto;
 import patterns.decorator.carLine.autos.Car;
 
+import java.util.ArrayList;
+
 public class CarAssembleLine implements IAssembleLine {
 
     @Override
     public Car assemble() {
-        Car car = new Car();
+        Car car = new Car("Red", 10000, 180);
         createBody(car);
         addEngine(car);
         addWheels(car);
@@ -15,14 +17,14 @@ public class CarAssembleLine implements IAssembleLine {
     }
 
     private void createBody(Car car) {
-        // forming body
+        car.addFeature("Create Body feature");
     }
 
     private void addEngine(Car car) {
-        // add engine to car
+        car.addFeature("Engine feature");
     }
 
     private void addWheels(Car car) {
-        // add wheels
+        car.addFeature("Add wheels feature");
     }
 }

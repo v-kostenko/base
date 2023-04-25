@@ -4,7 +4,10 @@ import patterns.decorator.carLine.autos.Auto;
 
 public class Main {
     public static void main(String[] args) {
-        CarAssembleLine auto = new MilitaryDecorator( new CarAssembleLine());
-        auto.assemble();
+        IAssembleLine line =  new LuxyryAssembleLineDecorator( new MilitaryDecorator(new CarAssembleLine()));
+        Auto auto = line.assemble();
+        System.out.println(auto);
+
+
     }
 }
